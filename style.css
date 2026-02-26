@@ -1,0 +1,22 @@
+h1 {
+    color: tomato;
+}
+.standout {
+    color: darkcyan;
+}
+h2:hover {color: hotpink;}
+.image1{
+    border-radius: 50%;
+}
+.image2{
+    border-radius: 20px;
+}
+.image3{
+    opacity: 0.6;
+}
+.image4{
+    filter: grayscale(90%);
+}
+.image5:hover{
+    filter: blur(8px);
+}
